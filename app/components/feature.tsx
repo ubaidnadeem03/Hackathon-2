@@ -28,7 +28,7 @@ export default function Feature(){
             <i className="fas fa-tags text-4xl text-gray-700 mb-4"></i>
             <h3 className="text-lg font-semibold text-gray-900">Unbeatable prices</h3>
             <p className="mt-2 text-sm lg:text-base text-gray-600">
-              For our materials and quality you won't find better prices anywhere
+              For our materials and quality you won&apos;t find better prices anywhere
             </p>
           </div>
       
